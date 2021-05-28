@@ -1,5 +1,18 @@
 - 👋 Hi, I’m Noah Gaertner (@noahgaertner)
+- 🎓 I'm currently a Sophomore in Electrical and Computer Engineering at Carnegie Mellon
+   - 🧠 I've taken the following relevant courses: 
+      - 15-122 Principles of Imperative Programming (Taught in C)
+      - 18-100 Introduction to Electrical and Computer Engineering
+      - 21-268 Multidimensional Calculus
+      - 21-127 Concepts of Mathematics (Pure Math/Proofs)
+      - 21-241 Matrices and Linear Transformations
+   - 🍁 In Fall 2021, I will be taking these relevant classes:
+      - 15-213/18-213 Introduction to Computer Systems (Taught in C/x86_64 Assembly)
+      - 18-220 Electronic Devices and Analog Circuits
+      - 21-260 Differential Equations
+      - 80-310 Formal Logic
 - 👀 I’m interested in Systems Programming, Computer Hardware Design, DSP, etc.
+- 👨🏻‍💻 I know C and Java, as well as (some) Julia and Python
 - 🌱 I’m currently learning Scheme LISP, C++ (from C), Web Design, Embedded Systems
 - 💞️ I’m looking to collaborate on Embedded stuff
 - 📫 How to reach me: email at noah@noahgaertner.tech, dm on twitter @noahgaertner
