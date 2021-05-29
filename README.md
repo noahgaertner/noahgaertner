@@ -14,7 +14,7 @@
 - 👀 I’m interested in Systems Programming, Computer Hardware Design, DSP, etc.
 - 👨🏻‍💻 I know C and Java, as well as (some) Julia and Python
 - 🌱 I’m currently learning Scheme LISP, C++ (from C), and Embedded Systems, and shoring up my Python and Julia
-- 💞️ I’m looking to collaborate on Embedded stuff
+- 💞️ I’m looking to collaborate on Embedded Systems project(s)
 - 📫 How to reach me: email at noah@noahgaertner.tech, dm on twitter @noahgaertner
 
 <!---
