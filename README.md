@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Noah Gaertner (@noahgaertner)
-- 🎓 I'm currently a Sophomore in Electrical and Computer Engineering at Carnegie Mellon
+- 🎓 I'm currently a Junior in Electrical and Computer Engineering at Carnegie Mellon
    - 🧠 I've taken the following relevant courses: 
     
       - 18-100 Introduction to Electrical and Computer Engineering
@@ -17,8 +17,8 @@
       - 18-349: Introduction to Embedded Systems
       - 18-623: Analog Integrated Circuit Design
       - 18-723: RF IC Design and Implementation
-- 👀 I’m interested in Systems Programming, Computer Hardware Design, DSP, etc.
-- 👨🏻‍💻 I know C and Java, as well as (some) Julia and Python
+- 👀 I’m interested in VLSI, RFIC, and Computer Architecture
+- 👨🏻‍💻 I know C, Java, and SystemVerilog, as well as (some) Julia and Python
 - 🌱 I’m currently learning Scheme LISP, C++ (from C), and Embedded Systems, and shoring up my Python and Julia
 - 💞️ I’m looking to collaborate on Embedded Systems project(s)
 - 📫 How to reach me: email at noah@noahgaertner.tech, dm on twitter @noahgaertner
