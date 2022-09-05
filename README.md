@@ -15,8 +15,8 @@
    - 🍁 In Fall 2022, I will be taking these relevant classes:
       - 18-341: Logic Design and Verification
       - 18-349: Introduction to Embedded Systems
+      - 18-622: Digtial Integrated Circuit Design
       - 18-623: Analog Integrated Circuit Design
-      - 18-723: RF IC Design and Implementation
 - 👀 I’m interested in VLSI, RFIC, and Computer Architecture
 - 👨🏻‍💻 I know C, Java, and SystemVerilog, as well as (some) Julia and Python
 - 🌱 I’m currently learning Scheme LISP, C++ (from C), and Embedded Systems, and shoring up my Python and Julia
