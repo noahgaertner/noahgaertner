@@ -16,7 +16,7 @@
          - 18-447: Introduction to Computer Architecture (S23)
          - 18-632: Introduction to Hardware Security (S23)
 
-- 👀 I’m interested in silicon engineering (everything above device physics and below the OS level)
+- 👀 I’m interested in silicon engineering (everything above device physics and below the OS level, exclusive)
 - 👨🏻‍💻 I know C and SystemVerilog, as well as (some) Julia and Python
 - 🌱 I’m currently learning C++, Tcl, and Scala (for Chisel); as well as shoring up my python (for cocotb/light scripting, mostly)
 - 📫 How to reach me: email at noah@noahgaertner.tech
