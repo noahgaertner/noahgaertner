@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Noah Gaertner (@noahgaertner)
-- 🎓 I'm currently a Junior in Electrical and Computer Engineering at Carnegie Mellon
+- 🎓 I'm currently a Junior in Electrical and Computer Engineering at Carnegie Mellon (BS/MS Class of Spring 2024)
    - 🧠 I've taken the following relevant courses:
       - Software Systems: 
          - 18-213 Introduction to Computer Systems
