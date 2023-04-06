@@ -8,7 +8,6 @@
          - 18-320: Microelectronic Circuits (TA'ing S23)
          - 18-622: Digital Integrated Circuit Design
          - 18-623: Analog Integrated Circuit Design 
-         - 18-721: Advanced Analog Integrated Circuit Design (S23)
          - 18-725: Advanced Digital Integrated Circuit Design (S23, tapeout/capstone course)
       - Hardware Systems:
          - 18-240: Structure and Design of Digital Systems
