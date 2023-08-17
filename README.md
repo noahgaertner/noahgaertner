@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Noah Gaertner (@noahgaertner)
-- 🎓 I'm currently a Junior in Electrical and Computer Engineering at Carnegie Mellon (BS/MS Class of Spring 2024)
+- 🎓 I'm currently a Senior in Electrical and Computer Engineering at Carnegie Mellon (BS/MS Class of Spring 2024)
    - 🧠 I've taken the following relevant courses:
       - Software Systems: 
          - 18-213 Introduction to Computer Systems
@@ -8,12 +8,16 @@
          - 18-320: Microelectronic Circuits (TA'ing S23)
          - 18-622: Digital Integrated Circuit Design
          - 18-623: Analog Integrated Circuit Design 
-         - 18-725: Advanced Digital Integrated Circuit Design (S23, tapeout/capstone course)
+         - 18-725: Advanced Digital Integrated Circuit Design (tapeout/capstone course)
+         - 18-726: Projects in Integrated Circuit Design: First Silicon
       - Hardware Systems:
          - 18-240: Structure and Design of Digital Systems
+         - 18-340: Hardware Arithmetic for Machine Learning (F23)
          - 18-341: Logic Design and Verification
-         - 18-447: Introduction to Computer Architecture (S23)
-         - 18-632: Introduction to Hardware Security (S23)
+         - 18-447: Introduction to Computer Architecture 
+         - 18-632: Introduction to Hardware Security
+         - 18-740: Modern Computer Architecture
+         - 18-765: Digital Systems Testing and Testable Design
 
 - 👀 I’m interested in silicon engineering (everything above device physics and below the OS level, exclusive)
 - 👨🏻‍💻 I know C and SystemVerilog, as well as (some) Julia and Python
